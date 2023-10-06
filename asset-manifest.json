@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sandbox-training/static/css/main.7acaea2f.css",
+    "main.js": "/sandbox-training/static/js/main.07d3183d.js",
+    "index.html": "/sandbox-training/index.html",
+    "main.7acaea2f.css.map": "/sandbox-training/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/sandbox-training/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
